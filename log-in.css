@@ -1,0 +1,54 @@
+body {
+  background: #897070;
+}
+
+.container {
+  max-width: 500px;
+  width: 100%;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #5a5a5a;
+  padding: 40px 30px;
+  background: #6e6c6b;
+  border: 7px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  margin-top: 10px;
+  -webkit-box-shadow: 20px 21px 8px 0px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 20px 21px 8px 0px rgba(34, 60, 80, 0.2);
+  box-shadow: 20px 21px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+#logEmail {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px 10px;
+  margin-bottom: 50px;
+  width: 250px;
+  border-radius: 5px;
+  background: rgb(149, 149, 149);
+  color: rgb(0, 255, 255);
+}
+
+#logPassword {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px 10px;
+  margin-bottom: 50px;
+  width: 250px;
+  border-radius: 5px;
+  background: rgb(149, 149, 149);
+  color: rgb(0, 255, 255);
+}
+#royhatBtn {
+  margin-left: 165px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  padding: 10px 10px;
+  background: #979393;
+  border-radius: 7px;
+  justify-content: center;
+  width: 200px;
+}
